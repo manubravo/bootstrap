@@ -1,0 +1,6 @@
+El navegador Google Chrome agregó recientemente soporte para mapas de origen en las herramientas de desarrollador. Si va a la configuración de la barra de herramientas del desarrollador de Chrome (pulsa F12 y luego dale al icono de Setting), desactive las siguientes dos opciones:
+
+- Enable JavaScript source maps
+- Enable CSS source maps
+
+Una vez desactivado, refresque el navegador y no volverá a ver esos putos molestos warnings de mierda que te hicieron perder 2 horas de tu vida.

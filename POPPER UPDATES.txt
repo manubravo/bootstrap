@@ -1,0 +1,6 @@
+Para instalarlo de forma local mírate el vídeo de Falcon Master
+https://www.youtube.com/watch?v=zC3ebsg8sOo
+
+No sé porqué pero la carpeta DIST ya no existe, así que no se puede obtener el popper.min.js en el zip. Tienes que ir al siguiente enlace para descargarlo:
+¡ATENCIÓN! Si en el GITHUB hay una nueva versión del popper y lo quieres en local, simplemente cambia 2.4.0 por la versión que indica el GitHub.
+https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/umd/popper.min.js
